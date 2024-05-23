@@ -32,7 +32,7 @@ For any questions, please send an email to akamine@thermo.t.u-tokyo.ac.jp (Corre
 	- Block length for the fast Fourier transform, $2^13$ (50% overlap, $\Delta f=48.83$ Hz)
 	- Number of blocks, 487
 	- Window function, Hann function
-	- As described by Akamine et al. (2015), the spectra are corrected for the microphone free-field response, atmospheric absorption (based on Bass et al. (1995) doi: [10.1121/1.412989](https://doi.org/10.1121/1.412989), and background noise. Note that the corrections due to the latter two are negligible, less than 0.001 dB in OASPL.
+	- As described by Akamine et al. (2015), the spectra are corrected for the microphone free-field response, atmospheric absorption (based on Bass et al. (1995) doi: [10.1121/1.412989](https://doi.org/10.1121/1.412989)), and background noise. Note that the corrections due to the latter two are negligible, less than 0.001 dB in OASPL.
 
 Each spectrum is shown as `psd_**deg.png`.
 
