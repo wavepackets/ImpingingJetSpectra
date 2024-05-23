@@ -2,9 +2,9 @@
 
 For more details, please see Akamine, Nakanishi, Okamoto, Teramoto, Okunuki, and Tsutsumi (2015) "Acoustic Phenomena from Correctly Expanded Supersonic Jet Impinging on Inclined Plate," *AIAA Journal* 53(7) 2061-2067, doi: [10.2514/1.J053953](https://doi.org/10.2514/1.J053953)
 
-To use this data, please cite the paper above. Example sentences for citation are as follows:
+To use this data, please cite the paper above. Example sentence for citation is as follows:
 
-> Akamine et al. (2015) AIAA J.. detail data available from https://github.com/wavepackets/ImpingingJetSpectra
+> Akamine et al. (2015) AIAA J., detail data available from https://github.com/wavepackets/ImpingingJetSpectra
 
 For any questions, please send an email to akamine@thermo.t.u-tokyo.ac.jp (Corresponding author, Masahito Akamine from the University of Tokyo, Japan).
 
@@ -12,9 +12,9 @@ For any questions, please send an email to akamine@thermo.t.u-tokyo.ac.jp (Corre
 ## Jet conditions
 - Measurement date, November 9, 2010
 	- Atmospheric pressure, $994.8 - 997.8$ hPa
-	- Atmospheric temperature, $17.4 - 20.0$ ℃
-	- Relative humidity, $60$%
-	- Jet temperature, $33.7-37.3$ ℃
+	- Atmospheric temperature, $17.4 - 20.0\degC$
+	- Relative humidity, $60%$
+	- Jet temperature, $33.7-37.3\degC$
 - Nozzle-exit diameter, $D = 20$ mm
 - Nozzle--plate distance, $5D$
 - Plate angle, $45\degree$
