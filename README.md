@@ -16,7 +16,7 @@ For any questions, please send an email to akamine@thermo.t.u-tokyo.ac.jp (Corre
 	- Relative humidity, $60$%
 	- Jet temperature, $33.7-37.3$℃
 - Nozzle-exit diameter, $D = 20$ mm
-- Nozzle-to-plate distance, $5D$
+- Nozzle–Plate distance, $5D$
 - Plate angle, $45\degree$
 
 ## Microphone conditions
@@ -29,7 +29,7 @@ For any questions, please send an email to akamine@thermo.t.u-tokyo.ac.jp (Corre
 - 1st line, microphone direction
 - 2nd line, Overall Sound Pressure Level (OASPL) in dB re. 20 µPa (integrated 1 kHz - 40 kHz components)
 - After 3rd line, Power Spectral Density (PSD) in dB/Hz re. 20 µPa (Frequency in Hz is shown at the 1st column)
-	- Block length for the fast Fourier transform, $2^13$ (50% overlap, $\Delta f=48.83$ Hz)
+	- Block length for the fast Fourier transform, $2^{13}$ (50% overlap, $\Delta f=48.83$ Hz)
 	- Number of blocks, 487
 	- Window function, Hann function
 	- As described by Akamine et al. (2015), the spectra are corrected for the microphone free-field response, atmospheric absorption (based on Bass et al. (1995) doi: [10.1121/1.412989](https://doi.org/10.1121/1.412989)), and background noise. Note that the corrections due to the latter two are negligible, less than 0.001 dB in OASPL.
