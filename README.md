@@ -16,7 +16,7 @@ For any questions, please send an email to akamine@thermo.t.u-tokyo.ac.jp (Corre
 	- Relative humidity, $60$%
 	- Jet temperature, $33.7-37.3$℃
 - Nozzle-exit diameter, $D = 20$ mm
-- Nozzle--plate distance, $5D$
+- Nozzle-to-plate distance, $5D$
 - Plate angle, $45\degree$
 
 ## Microphone conditions
