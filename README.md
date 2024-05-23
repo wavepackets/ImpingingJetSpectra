@@ -1,6 +1,6 @@
 # Sound-pressure-level (SPL) spectra of a supersonic impinging jet
 
-For more details, please see Akamine, Nakanishi, Okamoto, Teramoto, Okunuki, and Tsutsumi (2015) "Acoustic Phenomena from Correctly Expanded Supersonic Jet Impinging on Inclined Plate," *AIAA Journal* 53(7) 2061-2067, doi: [10.2514/1.J053953]{https://doi.org/10.2514/1.J053953}
+For more details, please see Akamine, Nakanishi, Okamoto, Teramoto, Okunuki, and Tsutsumi (2015) "Acoustic Phenomena from Correctly Expanded Supersonic Jet Impinging on Inclined Plate," *AIAA Journal* 53(7) 2061-2067, doi: [10.2514/1.J053953](https://doi.org/10.2514/1.J053953)
 
 To use this data, please cite the paper above. Example sentences for citation are as follows:
 
